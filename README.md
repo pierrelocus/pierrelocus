@@ -1,7 +1,7 @@
 ### <div align="center">I'm Pierre ! A geeky dev who likes working in PHP / Python / JS with frameworks like Odoo / Laravel / Vue</div>  
   
 
-- 🏢 I work at Nalios in Belgium  
+- 🏢 I work at [Nalios](https://nalios.be) in Belgium  
   
 
 - 🐍 I like Python challenges on sites like codingame, hackerrank, ...  
