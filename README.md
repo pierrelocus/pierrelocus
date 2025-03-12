@@ -1,16 +1,10 @@
-### <div align="center">I'm Pierre ! A geeky dev who likes working in PHP / Python / JS with frameworks like Odoo / Laravel / Vue</div>  
+### <div align="center">LOP is there.
   
 
-- 🏢 I work at [Nalios](https://nalios.be) in Belgium  
+- 🏢 Founder of Haxoria, Belgium.
   
 
-- 🐍 I like Python challenges on sites like codingame, hackerrank, ...  
-  
-
-- 😎 I also have my own company and can help you on a freelance basis  
-  
-
-- ✉️ Do not hesitate sending me a mail at pierrelocus@gmail.com !  
+- 🐍 I like Pytho
   
 
 <br/>  
