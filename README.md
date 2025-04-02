@@ -4,7 +4,7 @@
 - 🏢 Founder of Haxoria, Belgium.
   
 
-- 🐍 I like Pytho
+- 🐍 I like Python
   
 
 <br/>  
